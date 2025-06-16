@@ -386,6 +386,26 @@ This project was collaboratively built by our team of 5 developers, each bringin
 
 ---
 
+## 🚀 Look forward to the future
+
+We plan to further improve FoodTrace in the following directions:
+
+- 🌍 Expand support for multiple blockchains (e.g. Polygon, BNB Chain)
+- 📱 Dedicated mobile application development (iOS/Android)
+- 🤖 Integrated AI/ML to detect gaps and optimize supply chain
+- 🏭 More integrated IoT devices to collect data in real time
+- 🧾 Support technical expertise and compliance
+- 🌐 Support multiple languages ​​for users worldwide
+- 📊 Enhanced analytics control panel to provide detailed information about the supply chain
+- 🔗 API to integrate with third party
+- 🛡️ Enhanced security and privacy features
+- 🧑‍💼 Access to access according to the way and features for business
+- Compatible with AI to make judgments, evaluate the quality of agricultural products
+
+We are happy to deliver and close contribute to help shape the future of FoodTrace!
+
+---
+
 ## 👥 **Meet Our Team**
 
 <div align="center">
@@ -572,6 +592,7 @@ Special thanks to all the amazing technologies, communities, and our team collab
 - 💬 **Discord/Slack** for team communication
 - 📋 **Trello/Notion** for project management
 - ☕ **Coffee & Late nights** that powered our coding sessions
+
 
 
 <div align="center">
